@@ -1,16 +1,13 @@
-### Hi there 👋
+### 
+Welcome friend!
 
-<!--
-**hbrandon15/hbrandon15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brandon Hernandez and I am currently working on my Master's in Computer Engineering and I will graduate in May 2023. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my capstone project for my masters program
+- 🌱 I’m currently learning HTML/CSS/Javascript
+- 👯 I’m looking to collaborate on any project
+- 💬 Ask me about any tips or advice
+- 📫 How to reach me: https://www.linkedin.com/in/hernandezb6024/
+- ⚡ Fun fact: I am professional photographer! Check out my page at https://brandonhernandezphotography.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
